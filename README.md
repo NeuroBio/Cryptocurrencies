@@ -11,6 +11,7 @@ Only currencies with at least one coin mined and which can be traded for investm
 
 ### Figures
 **Figure 1:** Elbow plot used to pick the number of clusters.
+
 ![3d_plot](resources/elbow_plot.png)
 
 **Figure 2:** 3D plot showing the data plotted by Total Coins Mined, Total Coin Supply, and Proof Type.
