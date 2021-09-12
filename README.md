@@ -13,9 +13,9 @@ Only currencies with at least one coin mined and which can be traded for investm
 **Figure 1:** Elbow plot used to pick the number of clusters.
 ![3d_plot](resources/elbow_plot.png)
 
-**Figure 2:** 3D plot from two orientations, showing the data plotted along the first three principle components used to classify the cryptocurrencies into 4 groups.  Classes denoted by color.  The separation between groups was almost entirely determines by PC 2 and PC3, though PC 1 separated the lone currency in class 3.
+**Figure 2:** 3D plot showing the data plotted by Total Coins Mined, Total Coin Supply, and Proof Type.
 
-![3d_plot](resources/3d_plot.png)
+![3d_plot](resources/3d_plot_v2.png)
 
 **Figure 3:** 2D plot showing how the currencies group based on the number of coins in existence and how many were mined, colored by class as determined by the KMeans clustering.  Because the colors do not group together, they overlap, this suggests that these two metrics were not major features responsible for grouping cryptocurrencies.
 
